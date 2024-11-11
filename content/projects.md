@@ -15,7 +15,7 @@ sections:
       text: Here are my friends' links.
       filters:
         folders:
-          - project
+          - link
     design:
       view: article-grid
       fill_image: false
