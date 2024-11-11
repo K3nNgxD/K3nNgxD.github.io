@@ -1,6 +1,5 @@
 ---
 title: 'Link'
-date: 2024-05-19
 type: landing
 
 design:
@@ -18,6 +17,6 @@ sections:
           - link
     design:
       view: article-grid
-      fill_image: true
+      fill_image: false
       columns: 3
 ---
