@@ -40,12 +40,10 @@ interests:
 education:
   - area: BSc in Software Engineering
     institution: Xidian University
-    date_start: 2021-09
-    date_end: Now
+    2021.09 - Now
   - area: Visiting Student
     institution: NUS(Chongqing) Research Institute
-    date_start: 2024-09
-    date_end: Now
+    2024.09 - Now
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
