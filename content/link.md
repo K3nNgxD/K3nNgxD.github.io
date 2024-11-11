@@ -16,7 +16,7 @@ sections:
         folders:
           - link
     design:
-      view: card
-      fill_image: false
+      view: gallery
+      fill_image: true
       columns: 3
 ---
