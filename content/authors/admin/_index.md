@@ -74,7 +74,7 @@ skills:
         icon: music
       - name: Fitness
         description: 'Favourite athlete: Juxian He'
-        percent: 115
+        percent: 15
         icon: fitness
 # Awards.
 #   Add/remove as many awards below as you like.
