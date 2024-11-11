@@ -39,10 +39,10 @@ interests:
 
 education:
   - area: BSc in Software Engineering
-    institution: Xidian University
+    institution: Xidian University     2021.9 - Present
     date_start: 2021-09-03
   - area: Visiting Student
-    institution: NUS(Chongqing) Research Institute
+    institution: NUS(Chongqing) Research Institute    2024.9 - Present
     date_start: 2024-08-31
 
 languages:
