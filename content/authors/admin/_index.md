@@ -51,6 +51,31 @@ languages:
   - name: English
     percent: 75
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 55
+        icon: chart-bar
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Music
+        description: 'Favourite singer: JJ Lin    3rd of 38th Xidian University Singing match'
+        percent: 75
+        icon: music
+      - name: Fitness
+        description: 'Favourite athlete: Juxian He'
+        percent: 115
+        icon: fitness
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
