@@ -1,5 +1,5 @@
 ---
-title: "Links❤️"
+title: "Links"
 ---
 <style type="text/css">
 .friendurl {
