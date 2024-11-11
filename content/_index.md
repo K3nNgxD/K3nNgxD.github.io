@@ -31,9 +31,9 @@ sections:
           #parallax: false
   - block: collection
     id: publications
-    text: I have submitted a paper to Briefings in Bioinformatics and it is under review(previouly submitted to CIBM and under revision but withdrawn due to the journal being on hold)
     content:
       title: Recent Publications
+      text: I have submitted a paper to Briefings in Bioinformatics and it is under review(previouly submitted to CIBM and under revision but withdrawn due to the journal being on hold)
       filters:
         folders:
           - publication
