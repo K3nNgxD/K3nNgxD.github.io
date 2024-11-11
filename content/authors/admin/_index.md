@@ -101,4 +101,4 @@ awards:
 
 ## About Me
 
-Yi Lu is an undergraduate of Software Engineering at Xidian University. He is currently exchange at NUS(Chongqing) Research Institute. His research interests include Computational Biology, LLM for Biology and Bioinformatics. He is mentored by [Prof. Shixiong Zhang](https://alexzsx.github.io/homepage/）.
+Yi Lu is an undergraduate of Software Engineering at Xidian University. He is currently exchange at NUS(Chongqing) Research Institute. His research interests include Computational Biology, LLM for Biology and Bioinformatics. He is mentored by [Prof. Shixiong Zhang](https://alexzsx.github.io/homepage/).
