@@ -34,9 +34,9 @@ sections:
     content:
       title: Recent Publications
       text: ""
-      filters:
-        folders:
-          - publication
+     # filters:
+        # folders:
+          # - publication
         exclude_featured: false
     design:
       columns: 1
