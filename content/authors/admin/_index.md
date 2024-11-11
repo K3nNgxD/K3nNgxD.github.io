@@ -30,7 +30,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/k3nngxd
 
 interests:
   - Computational Biology  
@@ -40,33 +40,11 @@ interests:
 education:
   - area: BSc in Software Engineering
     institution: Xidian University
-    2021.09 - Now
+    date_start: 2021-09-03
   - area: Visiting Student
     institution: NUS(Chongqing) Research Institute
-    2024.09 - Now
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-08-31
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
