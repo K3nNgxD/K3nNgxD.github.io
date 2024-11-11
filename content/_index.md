@@ -31,12 +31,12 @@ sections:
           # position: center
           # parallax: false
   - block: collection
-    #content:
+    content:
       title: Recent Publications
       text: ""
-     #filters:
-        # folders:
-          # - publication
+     filters:
+        folders:
+          - publication
         exclude_featured: false
     design:
       columns: 1
