@@ -31,7 +31,7 @@ sections:
           # position: center
           # parallax: false
   - block: collection
-    content:
+    #content:
       title: Recent Publications
       text: ""
      #filters:
