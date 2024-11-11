@@ -33,18 +33,18 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
-      text: ""
+      title: Recent Publications 
       filters:
-        #folders:
-          #- publication
-        exclude_featured: false
+        folders:
+          - publication
+        featured_only: true
     design:
+      view: article-grid
       columns: 1
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 4
       # Filter on criteria
       filters:
         author: ""
