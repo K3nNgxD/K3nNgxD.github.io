@@ -9,5 +9,4 @@ view: citation
 # banner:
   #caption: ''
   #image: ''
-I have submitted a paper to Briefings in Bioinformatics in Ocotober and it is under review
 ---
