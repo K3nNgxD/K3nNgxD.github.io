@@ -31,7 +31,7 @@ sections:
           # position: center
           # parallax: false
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Recent Publications
       text: I have submitted a paper to Briefings in Bioinformatics and it is under review.
