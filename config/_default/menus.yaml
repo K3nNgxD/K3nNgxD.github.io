@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: /#papers
     weight: 11
-  - name: Awards
+  - name: Experiences
     url: experience/
     weight: 20
   - name: Links
